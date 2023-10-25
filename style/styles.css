@@ -1,0 +1,78 @@
+.landingpgBody {
+    background-image: url(../assets/blueSkies.jpg);
+    background-position: center;
+    background-color: rgb(42, 139, 228);
+}
+.interestpgBody {
+    background-image: url(../assets/clouds.jpg);
+    background-position: center;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-color: rgb(213, 230, 240);
+}
+.accomplishpgBody {
+    background-image: url(../assets/bigbluesky.jpg);
+    background-position: center;
+    background-color: rgb(213, 230, 240);
+}
+.headerTxt {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(5, 8, 92);
+    text-align: center;
+}
+.headerW {
+    background-color: rgb(213, 230, 240);
+}
+.secondaryHeader {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+.headerB {
+    background-color: rgb(42, 139, 228);
+}
+.imgAdjust {
+    width: 500px;
+    height: 380px;
+}
+.spacedOut {
+    margin: 130px;
+}
+.topSpace {
+    margin-top: 50px;
+}
+.textOut {
+    margin-right: -130px;
+}
+.centerMe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.heroed {
+    position: absolute;
+    width: 100%;
+    opacity: 70%;
+}
+.ontop {
+    display: flex;
+    justify-content: center;
+    height: 350px;
+}
+.mainFont {
+    color: rgb(18, 23, 157);
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mybtns {
+    width: 275px;
+    height: 50px;
+    margin-bottom: 40px;
+    background-color: rgb(252, 125, 203);
+    border-color: palevioletred;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 11px;
+}
