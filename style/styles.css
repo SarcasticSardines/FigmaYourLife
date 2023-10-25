@@ -64,6 +64,8 @@
     color: rgb(18, 23, 157);
     font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 178, 204, 0.5);
+    text-align: center;
 }
 .mybtns {
     width: 275px;
